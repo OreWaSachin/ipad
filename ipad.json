@@ -8,7 +8,7 @@
         
         {
         "id": "9",
-        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_pro__erf9x8mw04sy_small_2x.png",
+        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_pro__erf9x8mw04sy_large.png",
         "name":"iPad Pro",
         "title":"The ultimate iPad experience with the most advanced technology.",
         "price":"799",
@@ -36,7 +36,7 @@
     },
     {
         "id": "10",
-        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_air__bxjv33pk6nte_large_2x.png",
+        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_air__bxjv33pk6nte_large.png",
         "name":"iPad Air",
         "title":"Serious performance in a thin and light design.",
         "price":"599",
@@ -63,7 +63,7 @@
     },
     {
         "id": "11",
-        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_9__f7p2wja0gwuy_small_2x.png",
+        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_9__f7p2wja0gwuy_large.png",
         "name":"iPad",
         "title":"The all‑new colorful iPad for the things you do every day.",
         "price":"449",
@@ -90,7 +90,7 @@
     },
     {
         "id": "12",
-        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_9__f7p2wja0gwuy_small_2x.png",
+        "image":"https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_2__fwgwy7jydtea_large.png",
         "name":"iPad",
         "title":"All the essentials in the most affordable iPad.",
         "price":"329",
